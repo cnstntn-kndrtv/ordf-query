@@ -1,0 +1,15 @@
+{
+  "name": "orgf-query",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Constantin Kondratyev",
+  "license": "ISC",
+  "dependencies": {
+    "ldf-client": "^2.0.4",
+    "n3": "^0.10.0"
+  }
+}
